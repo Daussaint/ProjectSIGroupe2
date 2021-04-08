@@ -17,5 +17,10 @@ https://www.youtube.com/watch?v=N4M4W7JPOL4
 8 base de données sur la reconnaissance d'émotions
 https://analyticsindiamag.com/top-8-datasets-available-for-emotion-detection/
 
+<<<<<<< HEAD
+Autre projet réalisé sur la détection d'émotion
+https://analyticsindiamag.com/my-first-cnn-project-emotion-detection-using-convolutional-neural-network-with-tpu/
+=======
 TEST
+>>>>>>> parent of 29d0dd7... Database FER-2013
 
