@@ -19,3 +19,5 @@ window.config(background='#41B77F')
 # Ajouter un text
 label_title = Label(window, text="Bienvenue sur l'application", font=("Courrier", 40), bg='#41B77F', fg='white')
 label_title.pack()
+
+lili
