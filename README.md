@@ -1,2 +1,2 @@
 # ProjectSIGroupe2
-Groupe 2 Système intelligent (Lucas Honnay Daussaint Romain)
+Groupe 2 Systèmes intelligents (Lucas Honnay Daussaint Romain)
