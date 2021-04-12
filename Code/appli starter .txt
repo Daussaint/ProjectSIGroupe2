@@ -1,0 +1,21 @@
+from tkinter import *
+
+# creer une premiere fenetre
+window = Tk()
+
+# afficher 
+window.mainloop()
+
+
+--> Essai RUN
+
+
+# personnaliser la fenêtre
+window.title("Emotion Recognition")
+window.geometry("1080*720")
+#41B77F code couleur en hexa (vert clair)
+window.config(background='#41B77F')
+
+# Ajouter un text
+label_title = Label(window, text="Bienvenue sur l'application", font=("Courrier", 40), bg='#41B77F', fg='white')
+label_title.pack()
