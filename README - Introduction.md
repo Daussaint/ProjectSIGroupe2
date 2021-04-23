@@ -1,12 +1,12 @@
 # ProjectSIGroupe2
 Groupe 2 Systèmes intelligents (Lucas Honnay Daussaint Romain)
 
-This application allows the emotion recognition. 
-You present your face in front of your webcam and the programm detects your emotion in real time. 
+This application realise emotion recognition. 
+You have to present your face in front of your webcam and the programm detects your emotion in real time. 
 After 10 seconds the camera is cut off and you can see the result of the algorithm. 
-For realising this project at home, the description of the process is explained on the folder called "Code"
+To realise this project at home, the description of the process is explained on the folder called "Code"
 
-On this main folder you can see many pictures of the application
+On this main folder you can see pictures of the application
 
 Good Job !
 
